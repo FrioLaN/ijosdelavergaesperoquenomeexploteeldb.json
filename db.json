@@ -1,0 +1,30 @@
+{
+  "autos": [
+    {
+      "id": 1,
+      "marca": "chevrolet",
+      "modelo": "corvette",
+      "vendido": false
+    },
+    {
+      "id": 2,
+      "marca": "ford",
+      "modelo": "mustang",
+      "vendido": false
+    }
+  ],
+  "motos": [
+    {
+      "id": 1,
+      "marca": "ducati",
+      "modelo": "deserte x",
+      "vendido": false
+    },
+    {
+      "marca": "suzuki",
+      "modelo": "Katana",
+      "vendido": true,
+      "id": 2
+    }
+  ]
+}
